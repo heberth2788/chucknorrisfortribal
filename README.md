@@ -11,5 +11,4 @@ Live coding test for tribal: very simple chalenger to consume Chuck Norris servi
 * JetPack compose
 
 ## Extra:
-
 UI with classic XML design files and Data Binding.
