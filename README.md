@@ -1,5 +1,5 @@
 # Chuck Norris for Tribal
-Live coding test for tribal: very simple chalenger to consume Chuck Norris service (https://api.chucknorris.io/)
+Live coding test for tribal: simple chalenger to consume Chuck Norris service (https://api.chucknorris.io/)
 
 ## Technologies:
 
