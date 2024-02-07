@@ -9,7 +9,7 @@ Live coding test for tribal: very simple chalenger to consume Chuck Norris servi
 * Clean architecture: UI Layer(UI + ViewModel) + Data Layer(Repository + DataSource)
 * Coroutines
 * JetPack compose
-* Flows.
+* Flows
 
 ## Extra:
 UI with classic XML design files and Data Binding.
