@@ -9,6 +9,11 @@ android {
     namespace = "com.bbs.triballivecoding"
     compileSdk = 34
 
+    // Enabling data binding
+    dataBinding {
+        enable = true
+    }
+
     defaultConfig {
         applicationId = "com.bbs.triballivecoding"
         minSdk = 27
@@ -52,6 +57,7 @@ android {
 }
 
 dependencies {
+    //implementation(project(":app:xmlui"))
 
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.7.0")
@@ -64,6 +70,8 @@ dependencies {
 
     // For Hilt support
     implementation("com.google.dagger:hilt-android:2.48")
+    implementation("androidx.constraintlayout:constraintlayout:2.1.4")
+    implementation("androidx.appcompat:appcompat:1.6.1")
     kapt("com.google.dagger:hilt-android-compiler:2.48")
     implementation("androidx.hilt:hilt-navigation-compose:1.1.0")
 

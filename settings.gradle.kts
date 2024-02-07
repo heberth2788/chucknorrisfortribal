@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Tribal Live Coding"
 include(":app")
-include(":app:xmlui")
+//include(":app:xmlui")
