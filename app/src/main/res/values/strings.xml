@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tribal Live Coding</string>
+    <string name="button_random">Random</string>
+    <string name="button_query">Query</string>
+    <string name="button_all_categories">Get all categories</string>
+</resources>
